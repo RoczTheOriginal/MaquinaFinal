@@ -10,4 +10,6 @@ public class MaquinariaApplication {
   SpringApplication.run(MaquinariaApplication.class, args);
  }
 
+ 
 }
+//solido
